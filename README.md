@@ -11,8 +11,10 @@ In this project, I designed a Professional, Interactive Marketing Analytics Dash
 🧑‍🤝‍🧑 Which age and gender groups had the most conversions?
 
 💸 How efficient was the campaign in terms of ROI and CPC?
+
 This task challenged me to go beyond basic visuals and dive deep into marketing analytics, KPI tracking, and dynamic filtering using Power BI.
 
+---
 
 🧠 Skills Gained
 
@@ -28,6 +30,8 @@ This task challenged me to go beyond basic visuals and dive deep into marketing 
 
 ✅ Insightful Business Storytelling through Data
 
+---
+
 
 🛠 Tools Used
 
@@ -37,6 +41,7 @@ Microsoft Excel – for minor data review and structure
 
 Power Query Editor – for cleaning and transforming data inside Power BI
 
+---
 
 📂 Dataset Used
 
@@ -54,6 +59,7 @@ Revenue (assumed ₹50 per conversion)
 
 ROI (Return on Investment)
 
+---
 
 📈 Dashboard Highlights
 
@@ -71,6 +77,7 @@ The Power BI dashboard features:
 
 🔘 Interactive Slicers: Filter by Age, Gender, and Date
 
+---
 
 🎯 Business Insights
 
@@ -84,27 +91,31 @@ Some actionable insights extracted:
 
 📅 Campaign activity spiked around August 24th
 
+---
 
 🚀 How to Use
 
- Clone/download this repo
+ 1.Clone/download this repo
 
- Open the .pbix file in Power BI Desktop
+ 2.Open the .pbix file in Power BI Desktop
 
- Explore the dashboard: adjust filters, slicers, and visuals
+ 3.Explore the dashboard: adjust filters, slicers, and visuals
 
- Use the included dataset (cleaned_campaign.csv) for reference or re-modeling
+ 4.Use the included dataset (cleaned_campaign.csv) for reference or re-modeling
 
+---
 
 📌 Deliverable
 
 A fully functional and visually engaging Power BI Dashboard tailored for marketing teams and executives — presenting real-time insights into campaign efficiency and audience behavior.
 
+---
 
 🙌 Acknowledgements
 
 Huge thanks to Future Interns for the opportunity to work on this real-world analytics task. 
 
+---
 
 📬 Contact
 
