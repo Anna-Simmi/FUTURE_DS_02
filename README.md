@@ -15,6 +15,7 @@ This task challenged me to go beyond basic visuals and dive deep into marketing 
 
 
 🧠 Skills Gained
+
 ✅ Data Cleaning & Handling Missing Values
 
 ✅ Marketing KPI Analysis (CTR, CPC, ROI)
@@ -29,6 +30,7 @@ This task challenged me to go beyond basic visuals and dive deep into marketing 
 
 
 🛠 Tools Used
+
 Power BI Desktop – for DAX calculations, visualizations, and dashboard creation
 
 Microsoft Excel – for minor data review and structure
@@ -37,6 +39,7 @@ Power Query Editor – for cleaning and transforming data inside Power BI
 
 
 📂 Dataset Used
+
 I used a cleaned and enhanced version of the campaign data:
 
 💾 cleaned_campaign.csv – included fields like impressions, clicks, conversions, spend, age, gender, and ad ID.
@@ -53,6 +56,7 @@ ROI (Return on Investment)
 
 
 📈 Dashboard Highlights
+
 The Power BI dashboard features:
 
 📊 KPI Cards: Total Clicks, Spend, Impressions, Revenue, CTR, CPC, ROI
@@ -69,6 +73,7 @@ The Power BI dashboard features:
 
 
 🎯 Business Insights
+
 Some actionable insights extracted:
 
 🔝 Ads targeting age group 45–49 had the highest conversions
@@ -81,6 +86,7 @@ Some actionable insights extracted:
 
 
 🚀 How to Use
+
  Clone/download this repo
 
  Open the .pbix file in Power BI Desktop
@@ -91,13 +97,16 @@ Some actionable insights extracted:
 
 
 📌 Deliverable
+
 A fully functional and visually engaging Power BI Dashboard tailored for marketing teams and executives — presenting real-time insights into campaign efficiency and audience behavior.
 
 
 🙌 Acknowledgements
+
 Huge thanks to Future Interns for the opportunity to work on this real-world analytics task. 
 
 
 📬 Contact
+
 For collaboration, feedback, or questions — feel free to reach out via:
     LinkedIn:https://www.linkedin.com/in/anna-simmi-m-d-797ba8339   
