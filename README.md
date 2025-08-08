@@ -11,11 +11,10 @@ In this project, I designed a Professional, Interactive Marketing Analytics Dash
 🧑‍🤝‍🧑 Which age and gender groups had the most conversions?
 
 💸 How efficient was the campaign in terms of ROI and CPC?
-
 This task challenged me to go beyond basic visuals and dive deep into marketing analytics, KPI tracking, and dynamic filtering using Power BI.
 
-🧠 Skills Gained
 
+🧠 Skills Gained
 ✅ Data Cleaning & Handling Missing Values
 
 ✅ Marketing KPI Analysis (CTR, CPC, ROI)
@@ -28,16 +27,16 @@ This task challenged me to go beyond basic visuals and dive deep into marketing 
 
 ✅ Insightful Business Storytelling through Data
 
+
 🛠 Tools Used
+Power BI Desktop – for DAX calculations, visualizations, and dashboard creation
 
-    Power BI Desktop – for DAX calculations, visualizations, and dashboard creation
+Microsoft Excel – for minor data review and structure
 
-    Microsoft Excel – for minor data review and structure
+Power Query Editor – for cleaning and transforming data inside Power BI
 
-    Power Query Editor – for cleaning and transforming data inside Power BI
 
 📂 Dataset Used
-
 I used a cleaned and enhanced version of the campaign data:
 
 💾 cleaned_campaign.csv – included fields like impressions, clicks, conversions, spend, age, gender, and ad ID.
@@ -52,8 +51,8 @@ Revenue (assumed ₹50 per conversion)
 
 ROI (Return on Investment)
 
-📈 Dashboard Highlights
 
+📈 Dashboard Highlights
 The Power BI dashboard features:
 
 📊 KPI Cards: Total Clicks, Spend, Impressions, Revenue, CTR, CPC, ROI
@@ -68,8 +67,8 @@ The Power BI dashboard features:
 
 🔘 Interactive Slicers: Filter by Age, Gender, and Date
 
-🎯 Business Insights
 
+🎯 Business Insights
 Some actionable insights extracted:
 
 🔝 Ads targeting age group 45–49 had the highest conversions
@@ -80,8 +79,8 @@ Some actionable insights extracted:
 
 📅 Campaign activity spiked around August 24th
 
-🚀 How to Use
 
+🚀 How to Use
  Clone/download this repo
 
  Open the .pbix file in Power BI Desktop
@@ -90,15 +89,15 @@ Some actionable insights extracted:
 
  Use the included dataset (cleaned_campaign.csv) for reference or re-modeling
 
-📌 Deliverable
 
+📌 Deliverable
 A fully functional and visually engaging Power BI Dashboard tailored for marketing teams and executives — presenting real-time insights into campaign efficiency and audience behavior.
 
-🙌 Acknowledgements
 
+🙌 Acknowledgements
 Huge thanks to Future Interns for the opportunity to work on this real-world analytics task. 
 
-📬 Contact
 
+📬 Contact
 For collaboration, feedback, or questions — feel free to reach out via:
     LinkedIn:https://www.linkedin.com/in/anna-simmi-m-d-797ba8339   
